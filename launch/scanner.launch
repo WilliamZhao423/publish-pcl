@@ -1,0 +1,10 @@
+<?xml version="1.0"?>
+
+<launch>
+
+   <!-- set up scanner -->
+   <node name = "publish_pcl" pkg = "publish_pcl_project" type = "publish_pcl" args = "1" >
+
+   </node>
+
+</launch>
